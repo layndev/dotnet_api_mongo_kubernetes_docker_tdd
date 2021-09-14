@@ -26,3 +26,15 @@
 /Users/macbookair/Projects/FirstApi/obj/Debug/net5.0/ref/FirstApi.dll
 /Users/macbookair/Projects/FirstApi/obj/Debug/net5.0/FirstApi.pdb
 /Users/macbookair/Projects/FirstApi/obj/Debug/net5.0/FirstApi.genruntimeconfig.cache
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/DnsClient.dll
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/MongoDB.Bson.dll
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/MongoDB.Driver.dll
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/MongoDB.Driver.Core.dll
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/MongoDB.Libmongocrypt.dll
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/SharpCompress.dll
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/runtimes/win/native/libzstd.dll
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/runtimes/win/native/snappy32.dll
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/runtimes/win/native/snappy64.dll
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll
