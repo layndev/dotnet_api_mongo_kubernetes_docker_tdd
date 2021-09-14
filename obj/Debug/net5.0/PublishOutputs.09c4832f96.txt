@@ -1,0 +1,10 @@
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/publish/appsettings.Development.json
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/publish/appsettings.json
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/publish/FirstApi.dll
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/publish/FirstApi.deps.json
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/publish/FirstApi.runtimeconfig.json
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/publish/FirstApi.pdb
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/publish/Microsoft.OpenApi.dll
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/macbookair/Projects/FirstApi/bin/Debug/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

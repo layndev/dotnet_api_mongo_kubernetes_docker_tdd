@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "r89AYoMiOhBpqCyf0DXu05SHgLWkyZy/9udLySPgopzwae2KTC+5W0A273sFqCdziK3vP27iI6KInaZX2hHv7A==",
+  "success": true,
+  "projectFilePath": "/Users/macbookair/Projects/FirstApi/FirstApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookair/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/macbookair/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
